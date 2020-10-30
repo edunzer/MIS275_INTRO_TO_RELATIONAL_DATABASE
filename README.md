@@ -47,12 +47,6 @@ The reading materials along with the course deliverables will be described in ea
 
 Quizzes and exams will cover textbook and lecture material. The final exam will be comprehensive and will cover material from the entire course.
 
-STUDENT RESPONSIBILITY 
-
-Class Participation Students are expected to manage their time to be able to complete the course curriculum activities. This includes, turning in all assignments and accomplish all of the quizzes and exams by the assigned due date. 
-
-Grade Disputes If you wish to dispute the grade assigned to a paper, presentation, or a question on an exam, you must do so in writing.
-
 
 GRADING SYSTEM
 
@@ -73,6 +67,4 @@ C 	70-79%
 D 	60-69% 
 F 	0-59% 
 
-1.	Participation. You should read the learning material and resources to help gain greater understanding of the topics. Complete all labs and submit your work by the due date. 
 
-2.	Individual work. All work must be turned in on the due date as defined by 11:59 p.m. Late assignments are not allowed at this level, and result in a “100%” loss of the grade assigned unless there is an extension approved by the professor. 
